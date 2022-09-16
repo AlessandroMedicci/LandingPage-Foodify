@@ -1,7 +1,7 @@
 # Food Ordering WebPage
 
 ✔ Deployed to: 
-https://alessandrosbank.netlify.app/
+https://alessandrosfoodify.netlify.app/
 
 - The WEB is simple landing page and mainly built on HTML & CSS.
 
